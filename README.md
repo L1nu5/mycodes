@@ -1,2 +1,2 @@
 # mycodes
-Practical codes, Competitive codes
+Practical codes, Competitive codes etc
